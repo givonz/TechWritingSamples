@@ -26,4 +26,7 @@ They had undergone several releases without updating their manual.
 The manual was produced in time to take with to a trade show.  
 This was the first time, they had a sale at a trade. That sale is 
 credited to the manual.  In addition, the customers were very happy
-with the product.  Contact information available upon request
+with the product.  Contact information available upon request.
+
+For a copy of the Walk-Through Guide / User Manual for Noble House
+please email me at givonzirkdin@gmail.com
