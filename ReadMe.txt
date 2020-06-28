@@ -13,7 +13,7 @@ and cybersecurity.
 
 The systems requirements is a sample based upon a real project for a 
 bankrupt company that no longer exists.  I was the data processing 
-manager in charge or setting up the internal system for the manufacturer
+manager in charge of setting up the internal system for the manufacturer
 and coordinating with distributors and customers (chain store headquarters).
 
 The evidence based reporting project was started as a volunteer project
