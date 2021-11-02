@@ -30,3 +30,5 @@ with the product.  Contact information available upon request.
 
 For a copy of the Walk-Through Guide / User Manual for Noble House
 please email me at givonzirkdin@gmail.com
+
+The Network & Security Analysis is a framework that I have put together to write the results of such an analysis.  For confidetiality reasons, I can not give a live example.
